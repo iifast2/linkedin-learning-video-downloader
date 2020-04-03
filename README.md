@@ -43,5 +43,7 @@ SLUG: learning-autodesk-inventor
 other downloaders : 
 
  https://www.youtube.com/watch?v=F9vNHOx1jm4
+ 
 https://www.youtube.com/watch?v=-cIScXwpH7s&feature=youtu.be
+
 ( quora ) : https://www.quora.com/How-can-I-download-videos-from-LinkedIn-Learning/answer/Anilkumar-Kasaragadda
